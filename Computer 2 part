@@ -1,0 +1,44 @@
+<html>
+<head><title>multiple choice questions</title></head>
+<body>
+<h1>Q1. Punched card were first introduced by-</h1>
+<input type="radio" name="q1">
+A. &lt;power&gt;
+<br>
+<input type="radio" name="q1">
+B. &lt;pascal&gt;
+<br>
+<input type="radio" name="q1">
+C. &lt;Jacquard&gt;
+<br>
+<input type="radio" name="q1">
+D. &lt;Jollerith&gt;
+<br><br>
+<input type="submit" name="submit Quiz">
+<h1>Q2. Word length of a personal computer is-</h1>
+<input type="radio" name="q2">
+A. &lt;4 bits&gt;
+<br><input type="radio" name="q2">
+B. &lt;8 bits&gt;
+<br><input type="radio" name="q2">
+C. &lt;16 bits&gt;
+<br><input type="radio" name="q2">
+D. &lt;64 bits&gt;
+<br><input type="submit"  value="submit Quiz">
+<br>
+<h1>Q3. Cursor is a-</h1>
+<input type="radio" name="q3">
+A. &lt;pixel&gt;
+<br>
+<input type="radio" name="q3">
+B. &lt;thin blinking line&gt;
+<br>
+<input type="radio" name="q3">
+C. &lt; pointing device&gt;
+<br>
+<input type="radio" name="q3">
+D. &lt;None of these&gt;
+<br><br>
+<input type="submit" name="submit Quiz">
+</body>
+</html>
