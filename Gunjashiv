@@ -1,0 +1,19 @@
+<html>
+<head><title>multiple choice questions</title></head>
+<body>
+<h1>Q1. TCP stands for?</h1>
+<input type="radio" name="q1">
+A. &lt;Transmission Control Program &gt;
+<br>
+<input type="radio" name="q1">
+B. &lt;Transfer Control Protocol &gt;
+<br>
+<input type="radio" name="q1">
+C. &lt;Transfer Control Program &gt;
+<br>
+<input type="radio" name="q1">
+D. &lt;Transmission Control Protocol &gt;
+<br><br>
+<input type="submit"  value="submit Quiz">
+</body>
+</html>
